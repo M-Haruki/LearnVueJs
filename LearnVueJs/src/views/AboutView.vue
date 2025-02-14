@@ -3,6 +3,7 @@
     <h1>このサイトについて</h1>
     <p>このサイトは、Vue.jsの学習用に作成されました。</p>
     <p>Vue.js公式とは無関係のサイトです。</p>
+    <OfficialLink />
   </div>
 </template>
 
@@ -22,3 +23,7 @@ p {
   margin-bottom: 10px;
 }
 </style>
+
+<script setup>
+import OfficialLink from '@/components/OfficialLink.vue'
+</script>

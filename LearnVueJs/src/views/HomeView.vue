@@ -18,6 +18,7 @@
     </p>
     <br>
     <RouterLink to="/about">このサイトは何?</RouterLink>
+    <OfficialLink />
   </div>
 </template>
 <style scoped>
@@ -50,6 +51,7 @@ img {
   width: 100px;
 }
 </style>
+
 <script setup>
-// JavaScript here
+import OfficialLink from '@/components/OfficialLink.vue'
 </script>
