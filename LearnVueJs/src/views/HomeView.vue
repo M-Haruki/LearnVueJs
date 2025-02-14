@@ -1,10 +1,10 @@
 <template>
   <div class="home-view">
     <h1>Vue.jsの紹介</h1>
-    <img src="@/assets/logo.svg" alt="Vueのロゴ画像">
+    <img src="@/assets/logo.svg" alt="Vueのロゴ画像" />
     <p>
       Vue.jsは、人気のあるJavaScriptフレームワークです。
-      <br>
+      <br />
       シンプルで柔軟なAPIを提供し、リアクティブなデータバインディングとコンポーネントベースのアーキテクチャを特徴としています。
     </p>
     <ul>
@@ -16,7 +16,7 @@
     <p>
       Vue.jsは、単一ページアプリケーション（SPA）や複雑なフロントエンドプロジェクトの開発に適しています。
     </p>
-    <br>
+    <br />
     <RouterLink to="/about">このサイトは何?</RouterLink>
     <OfficialLink />
   </div>
