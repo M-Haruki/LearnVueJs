@@ -1,0 +1,1 @@
+import{c as t,a as s,b as o,O as a,o as l}from"./index-CcCoMtJa.js";const n={class:"about-view"},p={__name:"AboutView",setup(r){return(u,e)=>(l(),t("div",n,[e[0]||(e[0]=s("h1",null,"このサイトについて",-1)),e[1]||(e[1]=s("p",null,"このサイトは、Vue.jsの学習用に作成されました。",-1)),e[2]||(e[2]=s("p",null,"Vue.js公式とは無関係のサイトです。",-1)),o(a)]))}};export{p as default};
